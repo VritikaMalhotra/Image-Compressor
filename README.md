@@ -5,7 +5,7 @@ Image Compressor GUI Application.
 - PyQt5
 - Pillow
 
-After installig it run app.py file.
+After installig it run app.py file. design.qss of the stylesheet of the application.
 
 **Functionality:**
 - This is an Image Compression GUI application made using python.
